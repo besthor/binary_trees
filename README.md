@@ -1,5 +1,4 @@
-# Binary Trees
-- Binary search tree 
+# Binary search tree 
 ![](https://blog.penjee.com/wp-content/uploads/2015/11/binary-search-tree-sorted-array-animation.gif)
 
 # Binary search tree from sorted array
